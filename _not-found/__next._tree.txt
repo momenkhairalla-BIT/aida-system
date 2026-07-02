@@ -1,0 +1,2 @@
+:HL["/aida-system/_next/static/chunks/2q3g9mlb7lh-y.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ennj4eE75st3f9k-6cqdT"}
